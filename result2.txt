@@ -1,0 +1,14 @@
+	(1)
+VARIABLES	ln85
+	
+lnIY	1.318***
+	(0.171)
+n1	-2.017***
+	(0.534)
+Constant	8.568***
+	(1.305)
+	
+Observations	75
+R-squared	0.599
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
